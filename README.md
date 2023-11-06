@@ -19,7 +19,7 @@ We implement our methods by Python 3.8. The environment is as bellow:
 
 ### Synthetic Data Set and the classification decision boundary of three classifiers
 <p align="center">
-  <img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/Experimental%20Results/circles.png" width='30%' height='30%'/>
+  <img src="https://github.com/CQQXY161120/Enhance-Performance-of-classifier/blob/main/Generated_dataset.png" width='30%' height='30%'/>
   <img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/Experimental%20Results/moons.png" width='30%' height='30%'/>
   <img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/Experimental%20Results/Gaussian.png" width='30%' height='30%'/>
 </p>
