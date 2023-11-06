@@ -17,7 +17,7 @@ We implement our methods by Python 3.8. The environment is as bellow:
 
 ## Run demo
 
-### Synthetic Data Set and the classification decision boundary of three classifiers
+### Synthetic Data Set and the classification decision boundary of Decision Tree, KNN and SGLB
 <p align="center">
   <img src="https://github.com/CQQXY161120/Enhance-Performance-of-classifier/blob/main/Generated_dataset.png" width='22%' height='30%'/>
   <img src="https://github.com/CQQXY161120/Enhance-Performance-of-classifier/blob/main/DT_before.png" width='20%' height='30%'/>
@@ -27,7 +27,7 @@ We implement our methods by Python 3.8. The environment is as bellow:
 
 
 
-### The Data Set processed by RLP and the classification decision boundary of three classifiers on the processed datasets
+### The Data Set processed by RLP and the classification decision boundary of Decision Tree, KNN and SGLB on the processed datasets
 <p align="center">
   <img src="https://github.com/CQQXY161120/Enhance-Performance-of-classifier/blob/main/Reduced_dataset_RLP.png" width='22%' height='30%'/>
   <img src="https://github.com/CQQXY161120/Enhance-Performance-of-classifier/blob/main/DT_after_RLP.png" width='20%' height='30%'/>
