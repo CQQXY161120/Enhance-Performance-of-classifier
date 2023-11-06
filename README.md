@@ -19,10 +19,10 @@ We implement our methods by Python 3.8. The environment is as bellow:
 
 ### Synthetic Data Set and the classification decision boundary of three classifiers
 <p align="center">
-  <img src="https://github.com/CQQXY161120/Enhance-Performance-of-classifier/blob/main/Generated_dataset.png" width='25%' height='30%'/>
-  <img src="https://github.com/CQQXY161120/Enhance-Performance-of-classifier/blob/main/DT_before.png" width='25%' height='30%'/>
-  <img src="https://github.com/CQQXY161120/Enhance-Performance-of-classifier/blob/main/KNN_before.png" width='25%' height='30%'/>
-  <img src="https://github.com/CQQXY161120/Enhance-Performance-of-classifier/blob/main/SGLB_before.png" width='25%' height='30%'/>
+  <img src="https://github.com/CQQXY161120/Enhance-Performance-of-classifier/blob/main/Generated_dataset.png" width='22%' height='30%'/>
+  <img src="https://github.com/CQQXY161120/Enhance-Performance-of-classifier/blob/main/DT_before.png" width='20%' height='30%'/>
+  <img src="https://github.com/CQQXY161120/Enhance-Performance-of-classifier/blob/main/KNN_before.png" width='20%' height='30%'/>
+  <img src="https://github.com/CQQXY161120/Enhance-Performance-of-classifier/blob/main/SGLB_before.png" width='20%' height='30%'/>
 </p>
 
 
