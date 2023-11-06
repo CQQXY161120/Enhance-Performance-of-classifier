@@ -29,7 +29,10 @@ We implement our methods by Python 3.8. The environment is as bellow:
 
 ### The Data Set processed by RLP and the classification decision boundary of three classifiers on the processed datasets
 <p align="center">
-  <img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/Experimental%20Results/circles_reduced.png" width='30%' height='30%'/><img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/Experimental%20Results/moons_reduced.png" width='30%' height='30%'/><img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/Experimental%20Results/Gaussian_reduced.png" width='30%' height='30%'/>
+  <img src="https://github.com/CQQXY161120/Enhance-Performance-of-classifier/blob/main/Reduced_dataset_RLP.png" width='22%' height='30%'/>
+  <img src="https://github.com/CQQXY161120/Enhance-Performance-of-classifier/blob/main/DT_after_RLP.png" width='20%' height='30%'/>
+  <img src="https://github.com/CQQXY161120/Enhance-Performance-of-classifier/blob/main/KNN_after_RLP.png" width='20%' height='30%'/>
+  <img src="https://github.com/CQQXY161120/Enhance-Performance-of-classifier/blob/main/SGLB_after_RLP.png" width='20%' height='30%'/>
 </p>
 
 ## Technical Details and Citations:  
