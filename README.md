@@ -17,17 +17,16 @@ We implement our methods by Python 3.8. The environment is as bellow:
 
 ## Run demo
 
-### Synthetic Data Set 
+### Synthetic Data Set and the classification decision boundary of three classifiers
 <p align="center">
-  <img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/Experimental%20Results/circles.png" width='30%' height='30%'/><img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/Experimental%20Results/moons.png" width='30%' height='30%'/><img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/Experimental%20Results/Gaussian.png" width='30%' height='30%'/>
+  <img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/Experimental%20Results/circles.png" width='30%' height='30%'/>
+  <img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/Experimental%20Results/moons.png" width='30%' height='30%'/>
+  <img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/Experimental%20Results/Gaussian.png" width='30%' height='30%'/>
 </p>
 
-### Homogeneous clusters  
-<p align="center">
-  <img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/Experimental%20Results/circles_hc.png" width='30%' height='30%'/><img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/Experimental%20Results/moons_hc.png" width='30%' height='30%'/><img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/Experimental%20Results/Gaussian_hc.png" width='30%' height='30%'/>
-</p>
 
-### Reduced Data Set  
+
+### The Data Set processed by RLP and the classification decision boundary of three classifiers on the processed datasets
 <p align="center">
   <img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/Experimental%20Results/circles_reduced.png" width='30%' height='30%'/><img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/Experimental%20Results/moons_reduced.png" width='30%' height='30%'/><img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/Experimental%20Results/Gaussian_reduced.png" width='30%' height='30%'/>
 </p>
